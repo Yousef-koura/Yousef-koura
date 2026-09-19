@@ -47,4 +47,4 @@ Open to Junior ML Engineer / AI Engineer / Computer Vision Engineer roles.
 
 ## Connect
 
-[Portfolio](https://yousef-koura.github.io/) · [LinkedIn](https://linkedin.com/in/yousefkoura) · [Email](mailto:yousefahmed.ae20@gmail.com)
+[Portfolio](https://yousefkoura.vercel.app/) · [LinkedIn](https://linkedin.com/in/yousefkoura) · [Email](mailto:yousefahmed.ae20@gmail.com)
