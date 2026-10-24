@@ -4,7 +4,7 @@
 
 <br/>
 
-![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=C9A96E&center=true&vCenter=true&width=760&height=50&lines=Building+intelligent+systems+at+the+intersection+of+ML%2C+vision+and+robotics;Models+%E2%80%A2+Data+%E2%80%A2+Decisions;Menoufia%2C+Egypt)
+![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=C9A96E&center=true&vCenter=true&width=1000&height=50&lines=Building+intelligent+systems+for+ML%2C+vision+and+robotics;Models+%E2%80%A2+Data+%E2%80%A2+Decisions;Menoufia%2C+Egypt)
 
 </div>
 
