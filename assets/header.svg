@@ -1,11 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260">
-  <rect width="1000" height="260" rx="14" fill="#0B0C0E"/>
-  <rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#2A2A2A"/>
-  <text x="48" y="58" font-family="monospace" font-size="15" letter-spacing="4" fill="#C9A96E">PORTFOLIO / 2026</text>
-  <text x="48" y="82" font-family="monospace" font-size="15" letter-spacing="4" fill="#8A8170">MENOUFIA, EGYPT</text>
-  <rect x="852" y="34" width="100" height="36" rx="18" fill="#C9A96E"/>
-  <text x="902" y="57" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3" fill="#0B0C0E">CONTACT</text>
-  <text x="44" y="186" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="112" letter-spacing="6" fill="#F2EFE6">YOUSEF</text>
-  <line x1="48" y1="212" x2="952" y2="212" stroke="#C9A96E" stroke-width="1"/>
-  <text x="48" y="240" font-family="monospace" font-size="15" letter-spacing="4" fill="#C9A96E">MACHINE LEARNING ENGINEER</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0C0E"/>
+      <stop offset="1" stop-color="#15130F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.15" r="0.55">
+      <stop offset="0" stop-color="#C9A96E" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#C9A96E" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F2EFE6" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <style>
+    .fade { opacity: 0; animation: fade 1s ease forwards; }
+    .d1 { animation-delay: .2s; }
+    .d2 { animation-delay: .5s; }
+    .d3 { animation-delay: .9s; }
+    @keyframes fade { to { opacity: 1; } }
+    .draw { stroke-dasharray: 900; stroke-dashoffset: 900; animation: draw 1.6s ease .7s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .pulse { animation: pulse 4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: .6; } 50% { opacity: 1; } }
+  </style>
+
+  <rect width="1000" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1000" height="300" rx="16" fill="url(#grid)"/>
+  <rect width="1000" height="300" rx="16" fill="url(#glow)" class="pulse"/>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="16" fill="none" stroke="#2A2A2A"/>
+
+  <text x="60" y="72" font-family="monospace" font-size="14" letter-spacing="4" fill="#C9A96E" class="fade d1">PORTFOLIO / 2026  ·  MENOUFIA, EGYPT</text>
+
+  <rect x="790" y="40" width="150" height="40" rx="20" fill="none" stroke="#C9A96E" class="fade d1"/>
+  <text x="865" y="65" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3" fill="#C9A96E" class="fade d1">OPEN TO ROLES</text>
+
+  <text x="56" y="180" font-family="Arial Black, Helvetica, Arial, sans-serif" font-weight="900" font-size="88" letter-spacing="2" fill="#F2EFE6" class="fade d2">YOUSEF KOURA</text>
+
+  <line x1="60" y1="208" x2="940" y2="208" stroke="#C9A96E" stroke-width="1.5" class="draw"/>
+
+  <text x="60" y="244" font-family="monospace" font-size="18" letter-spacing="6" fill="#F2EFE6" fill-opacity="0.85" class="fade d3">MACHINE LEARNING ENGINEER</text>
 </svg>
