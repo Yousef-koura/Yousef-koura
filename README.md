@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Yousef Koura" />
+<img src="./assets/header.svg" width="100%" alt="Yousef Koura, Machine Learning Engineer" />
 
 <br/>
 
@@ -8,26 +8,89 @@
 
 </div>
 
----
+<br/>
 
-<p>
-I'm a Machine Learning Engineer with a Mechatronics Engineering background. I build the systems beneath a useful interface: models, data pipelines, and the decisions they support.
+<p align="center">
+I'm a Machine Learning Engineer with a Mechatronics background. I build the systems beneath a useful interface: models, data pipelines, and the decisions they support.
 </p>
 
-**Currently:** Machine Learning Intern at **FlyRank AI** (Remote), and building **Movenue**, a two-sided court-booking SaaS platform live in production.
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**Currently**
+Machine Learning Intern at **FlyRank AI** (Remote)
+
+</td>
+<td align="center" width="50%">
+
+**Building**
+**[Movenue](https://www.movenue.online/)**, a two-sided court-booking platform live in production
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Selected Work
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Movenue**](https://www.movenue.online/) | Two-sided marketplace for padel and football court owners and players in Egypt. Full Arabic/English localization and a booking engine built for concurrent double-booking. | ![Next.js](https://img.shields.io/badge/-Next.js-1A1B1E?style=flat-square&logo=nextdotjs&logoColor=C9A96E) ![Supabase](https://img.shields.io/badge/-Supabase-1A1B1E?style=flat-square&logo=supabase&logoColor=C9A96E) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1A1B1E?style=flat-square&logo=postgresql&logoColor=C9A96E) |
-| [**Agri-Bot**](https://github.com/Yousef-koura/AGRI-BOT) | Graduation project: AI-powered crop disease detection robot. Published at IUGRC 2024. | ![YOLOv8](https://img.shields.io/badge/-YOLOv8-1A1B1E?style=flat-square&logo=ultralytics&logoColor=C9A96E) ![Jetson](https://img.shields.io/badge/-Jetson_Nano-1A1B1E?style=flat-square&logo=nvidia&logoColor=C9A96E) ![ONNX](https://img.shields.io/badge/-ONNX-1A1B1E?style=flat-square&logo=onnx&logoColor=C9A96E) |
-| [**PneumoScan**](https://yousefkoura.vercel.app/) | Deep learning chest X-ray pneumonia classifier, benchmarked against ResNet-18 on 5,863 images. Served via FastAPI behind a React frontend. | ![PyTorch](https://img.shields.io/badge/-PyTorch-1A1B1E?style=flat-square&logo=pytorch&logoColor=C9A96E) ![FastAPI](https://img.shields.io/badge/-FastAPI-1A1B1E?style=flat-square&logo=fastapi&logoColor=C9A96E) ![React](https://img.shields.io/badge/-React-1A1B1E?style=flat-square&logo=react&logoColor=C9A96E) |
-| [**Personal RAG Chatbot**](https://yousefkoura.vercel.app/) | Natural-language Q&A over a personal knowledge base, using Llama 4 Scout via Groq. | ![LangChain](https://img.shields.io/badge/-LangChain-1A1B1E?style=flat-square&logo=langchain&logoColor=C9A96E) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1A1B1E?style=flat-square&logoColor=C9A96E) ![Groq](https://img.shields.io/badge/-Groq-1A1B1E?style=flat-square&logoColor=C9A96E) |
-| [**FMCG Data Engineering**](https://yousefkoura.vercel.app/) | End-to-end Lakehouse consolidation for an FMCG retailer's acquisition, built as a Medallion Architecture with star schema modeling. | ![Databricks](https://img.shields.io/badge/-Databricks-1A1B1E?style=flat-square&logo=databricks&logoColor=C9A96E) ![PySpark](https://img.shields.io/badge/-PySpark-1A1B1E?style=flat-square&logo=apachespark&logoColor=C9A96E) ![Delta](https://img.shields.io/badge/-Delta_Lake-1A1B1E?style=flat-square&logoColor=C9A96E) |
-| [**Deep Learning Projects**](https://github.com/Yousef-koura/Deep_Learning_Projects) | Potato-leaf disease detection served as a full-stack app, plus a CNN classifier for hidden-data detection in images. | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-1A1B1E?style=flat-square&logo=tensorflow&logoColor=C9A96E) ![Keras](https://img.shields.io/badge/-Keras-1A1B1E?style=flat-square&logo=keras&logoColor=C9A96E) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Movenue](https://www.movenue.online/)
+Two-sided marketplace for padel and football courts in Egypt. Full Arabic/English localization and a booking engine built for concurrent double-booking.
+
+![Next.js](https://img.shields.io/badge/-Next.js-1A1B1E?style=flat-square&logo=nextdotjs&logoColor=C9A96E) ![Supabase](https://img.shields.io/badge/-Supabase-1A1B1E?style=flat-square&logo=supabase&logoColor=C9A96E) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1A1B1E?style=flat-square&logo=postgresql&logoColor=C9A96E)
+
+</td>
+<td width="50%" valign="top">
+
+### [Agri-Bot](https://github.com/Yousef-koura/AGRI-BOT)
+Graduation project: AI-powered crop disease detection robot. Published at IUGRC 2024.
+
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-1A1B1E?style=flat-square&logo=ultralytics&logoColor=C9A96E) ![Jetson](https://img.shields.io/badge/-Jetson_Nano-1A1B1E?style=flat-square&logo=nvidia&logoColor=C9A96E) ![ONNX](https://img.shields.io/badge/-ONNX-1A1B1E?style=flat-square&logo=onnx&logoColor=C9A96E)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PneumoScan](https://yousefkoura.vercel.app/)
+Chest X-ray pneumonia classifier, benchmarked against ResNet-18 on 5,863 images. Served via FastAPI behind a React frontend.
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-1A1B1E?style=flat-square&logo=pytorch&logoColor=C9A96E) ![FastAPI](https://img.shields.io/badge/-FastAPI-1A1B1E?style=flat-square&logo=fastapi&logoColor=C9A96E) ![React](https://img.shields.io/badge/-React-1A1B1E?style=flat-square&logo=react&logoColor=C9A96E)
+
+</td>
+<td width="50%" valign="top">
+
+### [Personal RAG Chatbot](https://yousefkoura.vercel.app/)
+Natural-language Q&A over a personal knowledge base, using Llama 4 Scout via Groq.
+
+![LangChain](https://img.shields.io/badge/-LangChain-1A1B1E?style=flat-square&logo=langchain&logoColor=C9A96E) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-1A1B1E?style=flat-square) ![Groq](https://img.shields.io/badge/-Groq-1A1B1E?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [FMCG Data Engineering](https://yousefkoura.vercel.app/)
+End-to-end Lakehouse consolidation for an FMCG retailer's acquisition, built as a Medallion Architecture with star schema modeling.
+
+![Databricks](https://img.shields.io/badge/-Databricks-1A1B1E?style=flat-square&logo=databricks&logoColor=C9A96E) ![PySpark](https://img.shields.io/badge/-PySpark-1A1B1E?style=flat-square&logo=apachespark&logoColor=C9A96E) ![Delta](https://img.shields.io/badge/-Delta_Lake-1A1B1E?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [Deep Learning Projects](https://github.com/Yousef-koura/Deep_Learning_Projects)
+Potato-leaf disease detection served as a full-stack app, plus a CNN classifier for hidden-data detection in images.
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-1A1B1E?style=flat-square&logo=tensorflow&logoColor=C9A96E) ![Keras](https://img.shields.io/badge/-Keras-1A1B1E?style=flat-square&logo=keras&logoColor=C9A96E)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,17 +98,16 @@ I'm a Machine Learning Engineer with a Mechatronics Engineering background. I bu
 
 - **Machine Learning Intern**, FlyRank AI (Remote), *current*
 - **Machine Learning Intern**, PioPetro
-- **Machine Learning Intern**, ITI, and Digital HUB (D-HUB), 3rd place, ERI challenge
+- **Machine Learning Intern**, ITI and Digital HUB (D-HUB), 3rd place, ERI challenge
 
-## Background
+**Education:** B.Sc. Mechatronics Systems Engineering, MSA University, Egypt, in partnership with the University of Greenwich, UK.
+**Certifications:** ML Specialization (DeepLearning.AI), containerization (IBM).
 
-**B.Sc. Mechatronics Systems Engineering**, MSA University, Egypt, in partnership with the University of Greenwich, UK.
-
-Certified in ML Specialization (DeepLearning.AI) and containerization (IBM).
+---
 
 ## Toolkit
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/-Python-1A1B1E?style=flat-square&logo=python&logoColor=C9A96E" />
 <img src="https://img.shields.io/badge/-TypeScript-1A1B1E?style=flat-square&logo=typescript&logoColor=C9A96E" />
 <img src="https://img.shields.io/badge/-PyTorch-1A1B1E?style=flat-square&logo=pytorch&logoColor=C9A96E" />
@@ -61,6 +123,8 @@ Certified in ML Specialization (DeepLearning.AI) and containerization (IBM).
 <img src="https://img.shields.io/badge/-MATLAB-1A1B1E?style=flat-square&logo=mathworks&logoColor=C9A96E" />
 </p>
 
+---
+
 ## Code Activity
 
 <p align="center">
@@ -72,30 +136,20 @@ Certified in ML Specialization (DeepLearning.AI) and containerization (IBM).
 <img width="100%" src="https://streak-stats.demolab.com?user=Yousef-koura&theme=dark&background=0B0C0E&border=2A2A2A&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&stroke=2A2A2A&sideLabels=F2EFE6&dates=F2EFE6&currStreakNum=F2EFE6&sideNums=F2EFE6" alt="GitHub streak" />
 </p>
 
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yousef-koura&bg_color=0B0C0E&color=F2EFE6&line=C9A96E&point=F2EFE6&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
-<details>
-<summary><b>Now</b> (click to expand)</summary>
-
-<br/>
-
-- **2026 focus:** Production ML systems, LLM applications, and data engineering on Databricks
-- **Building:** Movenue, a two-sided court-booking platform for Egypt
-- **Exploring:** Computer vision on edge devices, RAG pipelines, and LLM evaluation
-
-</details>
-
 ---
 
 <div align="center">
 
 **Based in Menoufia, Egypt.** Open to Junior ML Engineer, AI Engineer, and Computer Vision roles.
 
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0C0E?style=for-the-badge&logo=vercel&logoColor=C9A96E&labelColor=0B0C0E&color=C9A96E)](https://yousefkoura.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0B0C0E?style=for-the-badge&logo=linkedin&logoColor=C9A96E&labelColor=0B0C0E&color=C9A96E)](https://linkedin.com/in/yousefkoura)
+[![Movenue](https://img.shields.io/badge/MOVENUE-0B0C0E?style=for-the-badge&labelColor=0B0C0E&color=C9A96E)](https://www.movenue.online/)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0B0C0E&height=100&section=footer)
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0C0E&height=100&section=footer" width="100%" alt="" />
 
 </div>
