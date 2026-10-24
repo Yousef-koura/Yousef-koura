@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260">
+  <rect width="1000" height="260" rx="14" fill="#0B0C0E"/>
+  <rect x="0.5" y="0.5" width="999" height="259" rx="14" fill="none" stroke="#2A2A2A"/>
+  <text x="48" y="58" font-family="monospace" font-size="15" letter-spacing="4" fill="#C9A96E">PORTFOLIO / 2026</text>
+  <text x="48" y="82" font-family="monospace" font-size="15" letter-spacing="4" fill="#8A8170">MENOUFIA, EGYPT</text>
+  <rect x="852" y="34" width="100" height="36" rx="18" fill="#C9A96E"/>
+  <text x="902" y="57" text-anchor="middle" font-family="monospace" font-size="13" letter-spacing="3" fill="#0B0C0E">CONTACT</text>
+  <text x="44" y="186" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="112" letter-spacing="6" fill="#F2EFE6">YOUSEF</text>
+  <line x1="48" y1="212" x2="952" y2="212" stroke="#C9A96E" stroke-width="1"/>
+  <text x="48" y="240" font-family="monospace" font-size="15" letter-spacing="4" fill="#C9A96E">MACHINE LEARNING ENGINEER</text>
+</svg>
